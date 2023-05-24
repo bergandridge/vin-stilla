@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.863f4a12.css",
+    "main.js": "/static/js/main.7e58a079.js",
+    "static/media/background.jpg": "/static/media/background.20e66425f295d96c73b3.jpg",
+    "static/media/logo_vinstilla.svg": "/static/media/logo_vinstilla.80d39895c23c041b539392c8c3239eb4.svg",
+    "index.html": "/index.html",
+    "main.863f4a12.css.map": "/static/css/main.863f4a12.css.map",
+    "main.7e58a079.js.map": "/static/js/main.7e58a079.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863f4a12.css",
+    "static/js/main.7e58a079.js"
+  ]
+}
